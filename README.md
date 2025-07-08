@@ -45,6 +45,15 @@ Search-Algorithm-Visualizer/
 
 ## Como Executar
 
+### Acesso Online (Recomendado)
+
+O projeto pode ser acessado diretamente pelo navegador através do link abaixo!
+
+**[Clique aqui para abrir o projeto](https://andreywid.github.io/Search-Algorithm-Visualizer/)**
+
+
+### Execução Local
+
 1. Clone o repositório:
 
 ```bash
@@ -61,7 +70,7 @@ cd Search-Algorithm-Visualizer
 ## Tecnologias
 
 * HTML, CSS e JavaScript
-* [p5.js](https://p5js.org/) (para animação e canvas)
+* [p5.js](https://editor.p5js.org/ayls/sketches/ZOPH2OKem) (para animação)
 * Nenhuma dependência externa ou instalação adicional
 
 ## Funcionalidades
